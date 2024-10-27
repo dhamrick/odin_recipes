@@ -1,0 +1,11 @@
+* {
+    background-color: rgb(194, 221, 230);
+    color:black;
+    font-family: Verdana, Arial, sans-serif;
+}
+
+.recipe-image {
+    height: 350px;
+    width: auto;
+}
+
